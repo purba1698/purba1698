@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Purba Mandal.
-- 👀 I’m interested in Cyber Security,Web Developement,Python and Java programming,AI,ML etc.
+- 👀 I’m interested in Cyber Security,Web Developement,Python and Java programming etc.
 - 🌱 I’m currently learning Web Developement and Cyber Security.
 
 <!---
