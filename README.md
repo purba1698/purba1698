@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Purba Mandal.
-- 👀 I’m interested in Cyber Security,Web Developement,Python and Java programming etc.
-- 🌱 I’m currently learning Web Developement and Cyber Security.
+- 👀 I’m interested in Front-End Web Development, Cyber Security,UI/UX and Java programming etc.
+- 🌱 I’m currently learning Front-End Web Developement and UI/UX.
 
 <!---
 purba1698/purba1698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
